@@ -8,10 +8,6 @@
     "lint": "vue-cli-service lint",
     "deploy": "gh-pages -d docs"
   },
-  "engines": {
-    "node": "18.x",
-    "npm": "9.x.x"
-  },
   "dependencies": {
     "core-js": "^3.8.3",
     "vue": "^3.2.13",
